@@ -1,0 +1,19 @@
+TEAM EXPLAINER
+
+This is a simplified prototype for demonstration.
+
+Why it is better than the earlier version:
+- Easier input methods
+- Clear explanations in plain language
+- Simpler user flow
+- Less technical overhead during presentation
+
+What is still a prototype:
+- It uses rule-based recommendations instead of a trained model
+- It does not yet connect to an LLM API
+- It does not yet analyze uploaded PGN files end-to-end
+
+Why that is okay:
+- It clearly demonstrates the target product experience
+- It preserves the API + UI architecture
+- It can be extended later into the full capstone system
